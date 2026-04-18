@@ -1,10 +1,3 @@
-"""
-save_corpus.py — Writes the 3 output files:
-  - tweets.jsonl   (one tweet per line as JSON)
-  - queries.txt    (tab-separated: id <TAB> text)
-  - qrels.txt      (TREC format: qid 0 docid relevance)
-"""
-
 import json
 import os
 from scripts.utils import get_logger, ensure_dir

@@ -1,10 +1,3 @@
-"""
-main.py — Run this to execute Phase 1 end-to-end.
-
-Usage:
-    python -m scripts.main
-"""
-
 from scripts.utils import get_logger, load_config, get_x_credentials
 from scripts.fetch_tweets import fetch_all_queries
 from scripts.build_qrels import build_qrels

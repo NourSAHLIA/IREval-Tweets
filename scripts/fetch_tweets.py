@@ -1,8 +1,3 @@
-"""
-fetch_tweets.py — Scrapes tweets from X using Playwright.
-Opens a real browser, logs in via cookies, searches each query, collects tweets.
-"""
-
 import time
 import re
 import random

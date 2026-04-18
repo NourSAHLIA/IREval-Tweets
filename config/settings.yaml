@@ -1,6 +1,6 @@
 collection:
-  tweets_per_query: 100 # Fetch 100 tweets per query
-  relevant_count: 30    # First 30 = relevant (per project spec)
+  tweets_per_query: 100
+  relevant_count: 30
   language: "en"
   exclude_retweets: true
 

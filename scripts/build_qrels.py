@@ -1,13 +1,3 @@
-"""
-build_qrels.py — Generates qrels from tweet records.
-
-Rule (from project spec):
-  The first 30 tweets fetched per query = relevant (score 1)
-  The remaining 70 per query            = not relevant (score 0)
-
-TREC qrels format:
-  query_id  0  doc_id  relevance
-"""
 
 from scripts.utils import get_logger
 
