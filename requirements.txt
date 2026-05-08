@@ -1,3 +1,10 @@
+# Phase1 Tweet collection
 playwright==1.44.0
 python-dotenv==1.0.0
 pyyaml==6.0.1
+ 
+# Phase2 Indexation, Retrieval & Evaluation
+python-terrier>=0.10.0
+nltk>=3.8.0
+matplotlib>=3.7.0
+pandas>=2.0.0
