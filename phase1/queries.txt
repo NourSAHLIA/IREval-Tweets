@@ -1,0 +1,5 @@
+Q1	Iran oil prices sanctions
+Q2	Iran Israel war attack
+Q3	Iran nuclear deal JCPOA
+Q4	Iran drone missile strike
+Q5	Iran economy inflation crisis
